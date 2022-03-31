@@ -15,3 +15,7 @@
 - ## Honeyview
   - [高速画像ビューアー](https://jp.bandisoft.com/honeyview/)\
 ![image](https://user-images.githubusercontent.com/1501327/160962896-d1924423-4fd3-4909-8946-fc683bfef17d.png)
+
+- ## WinMerge
+  - [WinMerge 日本語版](https://winmergejp.bitbucket.io/)\
+![image](https://user-images.githubusercontent.com/1501327/160963773-24de2e02-2fa9-4dd0-948e-4f70ee1a5489.png)
