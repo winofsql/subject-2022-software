@@ -18,4 +18,4 @@
 
 - ## WinMerge
   - [WinMerge 日本語版](https://winmergejp.bitbucket.io/)\
-![image](https://user-images.githubusercontent.com/1501327/160963773-24de2e02-2fa9-4dd0-948e-4f70ee1a5489.png)
+![image](https://user-images.githubusercontent.com/1501327/160963908-603001d7-65be-464f-8d64-53bb3e07fcbe.png)
