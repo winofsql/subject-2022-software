@@ -1,6 +1,9 @@
 ## Settings
 
 ### HOME ボタンの URL
+```
+https://www.google.com/
+```
 ![image](https://user-images.githubusercontent.com/1501327/162353015-5d9276e0-7ca3-4250-830d-a88d5575a87c.png)
 
 
