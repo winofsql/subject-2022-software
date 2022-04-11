@@ -2,6 +2,9 @@
 
 ## Microsoft
 
+- ## Redistributable packages for Visual Studio 2015, 2017, 2019, and 2022
+  - [再頒布可能パッケージ](https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
+
 - ## Visual Studio Code
   - [Windows User Installer	64 bit](https://code.visualstudio.com/download)\
 ![image](https://user-images.githubusercontent.com/1501327/160964204-b7ea595e-a263-4854-b30a-b33ad5c278a8.png)\
