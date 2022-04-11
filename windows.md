@@ -7,3 +7,5 @@
 
 ### Windows11 の罠回避
 ![image](https://user-images.githubusercontent.com/1501327/162848736-342deaef-cc51-4e81-b144-612da01dde79.png)
+
+![image](https://user-images.githubusercontent.com/1501327/162849086-c702101d-f579-41cc-9187-29c328886833.png)
