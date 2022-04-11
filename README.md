@@ -1,5 +1,10 @@
 # subject-2022-software
 
+- ## Visual Studio Code
+  - [Windows User Installer	64 bit](https://code.visualstudio.com/download)\
+![image](https://user-images.githubusercontent.com/1501327/160964204-b7ea595e-a263-4854-b30a-b33ad5c278a8.png)\
+( VSCodeUserSetup-x64-1.66.0.exe )
+
 ## [VirusTotal ウイルスチェック](https://www.virustotal.com/gui/home/upload)
 
 - ## 7-Zip
@@ -21,11 +26,6 @@
   - [WinMerge 日本語版](https://winmergejp.bitbucket.io/)\
 ![image](https://user-images.githubusercontent.com/1501327/160963908-603001d7-65be-464f-8d64-53bb3e07fcbe.png)\
 ( WinMerge-2.16.18-jp-3-x64-Setup.exe )
-
-- ## Visual Studio Code
-  - [Windows User Installer	64 bit](https://code.visualstudio.com/download)\
-![image](https://user-images.githubusercontent.com/1501327/160964204-b7ea595e-a263-4854-b30a-b33ad5c278a8.png)\
-( VSCodeUserSetup-x64-1.66.0.exe )
 
 - ## Git
   - [git](https://git-scm.com/)\
