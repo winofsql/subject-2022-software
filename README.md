@@ -18,6 +18,8 @@
 ![image](https://user-images.githubusercontent.com/1501327/162853928-f7016f0d-00f8-4306-bb22-72cf79df9efd.png)\
 ![image](https://user-images.githubusercontent.com/1501327/162853965-9340bbcb-600a-45ff-8307-2433c27e649c.png)
 
+- ## さくらエディタ
+  - [GitHub Ver2.2.0.1 (Unicode版)](https://github.com/sakura-editor/sakura/releases/tag/v2.2.0.1)
 
 - ## 7-Zip
   - [圧縮・解凍ソフト 7-Zip\
