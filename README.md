@@ -44,7 +44,7 @@
 ![image](https://user-images.githubusercontent.com/1501327/162852174-6c2773e4-327e-4f9a-aed9-14f106c73a76.png)
 
 - ## 簡易ダンプ
-  - [sendto-dump](https://github.com/winofsql/sendto-dump)
+  - [sendto-dump](https://github.com/winofsql/sendto-dump)\
 ![image](https://user-images.githubusercontent.com/1501327/162853097-c5ded74f-14ca-4aad-9f48-ac6931f76151.png)
 
 
