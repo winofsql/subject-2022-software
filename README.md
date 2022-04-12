@@ -67,6 +67,11 @@
 - ## GIMP ポータプル
   - [GIMPPortable_2.10.30.paf.exe](https://sourceforge.net/projects/portableapps/files/GIMP%20Portable/)
 
+- ## JGREP2
+  - [JGREP 2.0.5](http://www.hi-ho.ne.jp/jun_miura/jgrep.htm)\
+![image](https://user-images.githubusercontent.com/1501327/162939330-fda21595-538f-40b0-a293-a21d21105d5a.png)
+
+
 - ## がんすけ
   - [Gansuke122.zip](http://www.gansuke.com/download.htm)\
 ![image](https://user-images.githubusercontent.com/1501327/162938866-aad3d662-5250-4e31-91b2-e6f26f05b4f5.png)
