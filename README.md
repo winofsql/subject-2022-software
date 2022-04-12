@@ -43,6 +43,9 @@
   - [8.0.25 : 最新はバグってます](https://downloads.mysql.com/archives/c-odbc/)
 ![image](https://user-images.githubusercontent.com/1501327/162852174-6c2773e4-327e-4f9a-aed9-14f106c73a76.png)
 
+- ## 簡易ダンプ
+  - [sendto-dump](https://github.com/winofsql/sendto-dump)
+
 
 - ## ブックマークレット
   - [サンプル](https://github.com/winofsql/js-bookmarklet-sample)
