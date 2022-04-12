@@ -39,5 +39,10 @@
 ( Git-2.35.1.2-64-bit.exe )
 
 
+- ## MySQL ODBC ドライバ
+  - [8.0.25 : 最新はバグってます](https://downloads.mysql.com/archives/c-odbc/)
+
+
+
 - ## ブックマークレット
   - [サンプル](https://github.com/winofsql/js-bookmarklet-sample)
