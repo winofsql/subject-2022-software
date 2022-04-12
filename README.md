@@ -46,7 +46,9 @@
 ( Git-2.35.1.2-64-bit.exe )
 
 - ## xampp-settings( XAMPP Version 7.4.27 )
-  - [MySQL/Apache/Tomcat](https://github.com/winofsql/xampp-settings)
+  - [MySQL/Apache/Tomcat](https://github.com/winofsql/xampp-settings)\
+![image](https://user-images.githubusercontent.com/1501327/162855040-3adc229d-892c-491b-9844-edeadc93415d.png)
+
 
 - ## MySQL ODBC ドライバ
   - [8.0.25 : 最新はバグってます](https://downloads.mysql.com/archives/c-odbc/)
