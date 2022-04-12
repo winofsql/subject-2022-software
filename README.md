@@ -64,7 +64,8 @@
   - [Install and Settings](https://github.com/winofsql/SQLExpress-2019)\
 ![image](https://user-images.githubusercontent.com/1501327/162854562-6b88b0cd-4326-45ba-a66c-df63fd84e6e6.png)
 
-
+- ## GIMP ポータプル
+  - [GIMPPortable_2.10.30.paf.exe](https://sourceforge.net/projects/portableapps/files/GIMP%20Portable/)
 
 - ## ブックマークレット
   - [サンプル](https://github.com/winofsql/js-bookmarklet-sample)
