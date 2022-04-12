@@ -11,6 +11,9 @@
 ( VSCodeUserSetup-x64-1.66.0.exe )
 - [vscode-settings](https://github.com/winofsql/vscode-settings)
 
+- ## Google Drive for Desktop
+  - [パソコン版 Google ドライブを導入する](https://support.google.com/a/answer/7491144?hl=ja)
+
 ## [VirusTotal ウイルスチェック](https://www.virustotal.com/gui/home/upload)
 
 - ## NetEnum
