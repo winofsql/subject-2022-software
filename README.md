@@ -45,6 +45,8 @@
 ![image](https://user-images.githubusercontent.com/1501327/160964927-77f76f0b-6140-4ed1-afe6-7986a16bc497.png)\
 ( Git-2.35.1.2-64-bit.exe )
 
+- ## xampp-settings( XAMPP Version 7.4.27 )
+  - [MySQL/Apache/Tomcat](https://github.com/winofsql/xampp-settings)
 
 - ## MySQL ODBC ドライバ
   - [8.0.25 : 最新はバグってます](https://downloads.mysql.com/archives/c-odbc/)
