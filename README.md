@@ -67,5 +67,10 @@
 - ## GIMP ポータプル
   - [GIMPPortable_2.10.30.paf.exe](https://sourceforge.net/projects/portableapps/files/GIMP%20Portable/)
 
+- ## がんすけ
+  - [Gansuke122.zip](http://www.gansuke.com/download.htm)\
+![image](https://user-images.githubusercontent.com/1501327/162938866-aad3d662-5250-4e31-91b2-e6f26f05b4f5.png)
+
+
 - ## ブックマークレット
   - [サンプル](https://github.com/winofsql/js-bookmarklet-sample)
