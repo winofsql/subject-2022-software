@@ -8,6 +8,8 @@ https://www.google.com/
 
 
 ### ログアウト
+
+![image](https://user-images.githubusercontent.com/1501327/163295436-7e19e463-5958-4cd9-8763-00d3f59f02fb.png)
 ```
 [*.]google.com
 ```
