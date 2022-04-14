@@ -86,7 +86,7 @@
   - [消えて行くブラウザ](https://www.mozilla.org/ja/firefox/new/)
 
 - ## Visual Studio 2022
-  - [Visual Studio Community](https://visualstudio.microsoft.com/ja/vs/whatsnew/)\
+  - [Visual Studio Community](https://visualstudio.microsoft.com/ja/vs/whatsnew/)
 
 - ## UltraVNC
   - [窓の杜](https://forest.watch.impress.co.jp/library/software/ultravnc/)\
