@@ -88,7 +88,7 @@
 - ## Visual Studio 2022
   - [Visual Studio Community](https://visualstudio.microsoft.com/ja/vs/whatsnew/)
   - [.NET5.0 のインストール](https://dotnet.microsoft.com/ja-jp/download/dotnet/5.0)\
-  ![image](https://user-images.githubusercontent.com/1501327/163530763-36488b57-1d56-4ff1-85ee-ae765d0bad15.png)
+  ![image](https://user-images.githubusercontent.com/1501327/163702797-a7855698-dfbd-4f10-98fe-6283ec86be24.png)
 
 - ## UltraVNC
   - [窓の杜](https://forest.watch.impress.co.jp/library/software/ultravnc/)\
