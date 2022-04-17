@@ -80,7 +80,7 @@
 
 - ## がんすけ
   - [Gansuke122.zip](http://www.gansuke.com/download.htm)\
-![image](https://user-images.githubusercontent.com/1501327/162938866-aad3d662-5250-4e31-91b2-e6f26f05b4f5.png)
+  ![image](https://user-images.githubusercontent.com/1501327/163702816-b716e69b-52e5-4166-9f52-3a8159db97bf.png)
 
 - ## Firefox
   - [消えて行くブラウザ](https://www.mozilla.org/ja/firefox/new/)
