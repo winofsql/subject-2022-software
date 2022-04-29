@@ -4,6 +4,7 @@
 
 - ## Redistributable packages for Visual Studio 2015, 2017, 2019, and 2022
   - [再頒布可能パッケージ](https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
+  - Visual Studio をインストールすると必要無いです
 
 - ## Visual Studio Code
   - [Windows User Installer	64 bit](https://code.visualstudio.com/download)\
