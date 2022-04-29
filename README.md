@@ -52,6 +52,7 @@
 
 - ## Python
   - [非公式Pythonダウンロードリンク](https://pythonlinks.python.jp/ja/index.html)
+  - インストールダイアログで、**PATH に登録する為のにチェックボックス** にチェックする
 
 - ## xampp-settings( XAMPP Version 7.4.27 )
   - [MySQL/Apache/Tomcat](https://github.com/winofsql/xampp-settings)\
