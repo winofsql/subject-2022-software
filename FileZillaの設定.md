@@ -9,6 +9,7 @@
 
 ## サイトマネージャ
 
+さくらでは、SFTP が使用できます
 ![image](https://user-images.githubusercontent.com/1501327/162950112-3e232f05-1128-4a9b-a48b-8e213ce67ad4.png)\
 ![image](https://user-images.githubusercontent.com/1501327/167968503-22c124c1-7171-40e1-b928-31c6a2c95c7e.png)
 
