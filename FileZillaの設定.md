@@ -1,6 +1,6 @@
 ## ファイルの編集
 
-![image](https://user-images.githubusercontent.com/1501327/162949746-3ac544a2-ddd2-47ab-97e8-97e0a3da2c56.png)
+![image](https://user-images.githubusercontent.com/1501327/167968404-777f8e57-b85a-47d8-bc3c-b7a75c8e620c.png)
 
 ## UTF-8 を強制
 
